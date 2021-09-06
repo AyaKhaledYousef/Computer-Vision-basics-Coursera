@@ -1,3 +1,12 @@
-![Quiz1](https://github.com/AyaKhaledYousef/Computer-Vision-basics-Coursera/blob/main/Week%201/Quiz1.png)
-ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــت
-![General](https://github.com/AyaKhaledYousef/Computer-Vision-basics-Coursera/blob/main/Week%201/General.png)
+![Quiz1](https://github.com/AyaKhaledYousef/Computer-Vision-basics-Coursera/blob/main/Week%201/Images/Quiz1.png)
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+![General](https://github.com/AyaKhaledYousef/Computer-Vision-basics-Coursera/blob/main/Week%201/Images/General.png)
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+![q1](https://github.com/AyaKhaledYousef/Computer-Vision-basics-Coursera/blob/main/Week%201/Images/q1.png)
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+![q2](https://github.com/AyaKhaledYousef/Computer-Vision-basics-Coursera/blob/main/Week%201/Images/q2.png)
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+![q3](https://github.com/AyaKhaledYousef/Computer-Vision-basics-Coursera/blob/main/Week%201/Images/q3.png)
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+![q4](https://github.com/AyaKhaledYousef/Computer-Vision-basics-Coursera/blob/main/Week%201/Images/q4.png)
+
