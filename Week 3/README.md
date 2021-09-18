@@ -19,6 +19,26 @@
 
 ![img 1](https://github.com/AyaKhaledYousef/Computer-Vision-basics-Coursera/blob/main/Week%203/Images/5.png)
 
+**The low-level vision deals with the pixels directly**
+
+  - For example they want the picture to look better. If your picture is blurred,
+  can I deblur it to make it clear? If it is a small resolution, can we increase the resolution? 
+  We call super resolution, so we can see your face more clearly.
+  
+  - So those are low-level computer vision tasks. 
+  
+  - In low-level tasks in general, we do not care about if I understand what is it.
+  
+  - As long as we can make the image look good. 
+  
+  - That's good. So for example for many of the camera filters in your mobile phone,
+  
+  they're doing low-level vision tasks to make the picture look better
+
+ 
+
+
+
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
 
