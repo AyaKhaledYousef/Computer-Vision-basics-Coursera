@@ -44,10 +44,26 @@
 
 ![img 1](https://github.com/AyaKhaledYousef/Computer-Vision-basics-Coursera/blob/main/Week%203/Images/6.png)
 
+**Mid-level tasks include more about understanding, but not fully understanding.**
+
+  - So for example, mid-level vision tasks include understanding motion.
+  
+  - How objects move in a scene. Motion, including 3D, if you understand what is the geometry.
+
+
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
 
 ![img 1](https://github.com/AyaKhaledYousef/Computer-Vision-basics-Coursera/blob/main/Week%203/Images/7.png)
+
+ **For the high-level tasks, it's more about understanding.**
+ 
+  - I want to see, I want to know, this is object, this is a car, this is a cat, so on and so forth. 
+  
+  - More about recognizing the scene, recognize object, detect an object, and understand what's going on there. 
+
+ 
+
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
